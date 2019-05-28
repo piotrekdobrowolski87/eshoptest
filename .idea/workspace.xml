@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d1aee8a8-2f6b-4380-9780-874c1bbca483" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../eshoptest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eshoptest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eshoptest/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eshoptest/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../eshoptest/out/" />
     <ignored path="$PROJECT_DIR$/../eshoptest/target/" />
@@ -20,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/../eshoptest/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -55,8 +54,8 @@
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../eshoptest/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="374">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -144,10 +143,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="515" />
-    <option name="y" value="115" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -183,31 +182,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eshoptest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eshoptest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eshoptest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eshoptest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eshoptest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eshoptest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="cart" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eshoptest" type="b2602c69:ProjectViewProjectNode" />
@@ -354,12 +328,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559069428477</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="testng.xml file">
+      <created>1559070083260</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559070083260</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -368,8 +348,8 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32947975" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32851636" />
       <window_info anchor="bottom" id="Terminal" weight="0.32947975" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -419,7 +399,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="testng.xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="testng.xml file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart.java">
@@ -439,7 +420,7 @@
     <entry file="file://$PROJECT_DIR$/../eshoptest/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -501,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../eshoptest/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="374">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
