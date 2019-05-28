@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1aee8a8-2f6b-4380-9780-874c1bbca483" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../eshoptest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eshoptest/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1aee8a8-2f6b-4380-9780-874c1bbca483" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../eshoptest/out/" />
     <ignored path="$PROJECT_DIR$/../eshoptest/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,6 +83,12 @@
               <item name="eshoptest" type="b2602c69:ProjectViewProjectNode" />
               <item name="eshoptest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eshoptest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eshoptest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,10 +194,19 @@
       <option name="presentableId" value="Default" />
       <updated>1559068077706</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1559068694558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559068694558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -203,8 +215,8 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
       <window_info anchor="bottom" id="Terminal" weight="0.32947975" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -223,8 +235,38 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../eshoptest/pom.xml">
