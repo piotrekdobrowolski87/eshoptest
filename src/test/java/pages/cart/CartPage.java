@@ -79,7 +79,7 @@ public class CartPage {
         commonMethods.log("Wartości produktow sprawdzone");
     }
 
-    public void deleteProducts(){
+    public void deleteProduct(){
         int startProductListSize = productList.size();
         WebElement deleteAction = productList.get(productIdToRemove)
                 .actionOnProduct();

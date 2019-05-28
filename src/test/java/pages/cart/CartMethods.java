@@ -10,11 +10,11 @@ import java.util.List;
 
 public class CartMethods {
 
-    WebDriver driver;
-    MainPage mainPage;
-    WebElement cartCounter;
-    List<ProductObject> productObjectList;
-    CommonMethods commonMethods;
+    private WebDriver driver;
+    private MainPage mainPage;
+    private WebElement cartCounter;
+    private List<ProductObject> productObjectList;
+    private CommonMethods commonMethods;
 
     public CartMethods(WebDriver driver, MainPage mainPage){
         this.driver = driver;

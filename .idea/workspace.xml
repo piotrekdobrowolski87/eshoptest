@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d1aee8a8-2f6b-4380-9780-874c1bbca483" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../eshoptest/src/test/java/common/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eshoptest/src/test/java/common/CommonMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eshoptest/src/test/java/common/SetBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eshoptest/src/test/java/common/SetBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/ProductFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eshoptest/src/test/java/tests/CartCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eshoptest/src/test/java/tests/CartCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eshoptest/src/test/java/tests/MainPageCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eshoptest/src/test/java/tests/MainPageCheck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../eshoptest/out/" />
     <ignored path="$PROJECT_DIR$/../eshoptest/target/" />
@@ -19,7 +23,7 @@
       <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3049">
+            <state relative-caret-position="2142">
               <caret line="196" column="5" selection-start-line="196" selection-start-column="5" selection-end-line="196" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -42,7 +46,7 @@
       <file leaf-file-name="CartCheck.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/tests/CartCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
+            <state relative-caret-position="513">
               <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainPageCheck.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainPageCheck.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/tests/MainPageCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommonMethods.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CommonMethods.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/common/CommonMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+            <state relative-caret-position="833">
+              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,8 +105,8 @@
       <file leaf-file-name="CartMethods.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,8 +117,8 @@
       <file leaf-file-name="CartPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1768">
-              <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
+            <state relative-caret-position="1071">
+              <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,8 +129,8 @@
       <file leaf-file-name="ProductFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/ProductFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="204">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,15 +155,15 @@
       <list>
         <option value="$PROJECT_DIR$/../eshoptest/pom.xml" />
         <option value="$PROJECT_DIR$/../eshoptest/testng.xml" />
-        <option value="$PROJECT_DIR$/../eshoptest/src/test/java/tests/MainPageCheck.java" />
         <option value="$PROJECT_DIR$/../eshoptest/src/test/java/tests/CartCheck.java" />
         <option value="$PROJECT_DIR$/../eshoptest/src/test/java/pages/MainPage.java" />
         <option value="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/ProductObject.java" />
-        <option value="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/ProductFactory.java" />
-        <option value="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartPage.java" />
-        <option value="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartMethods.java" />
         <option value="$PROJECT_DIR$/../eshoptest/src/test/java/common/SetBrowser.java" />
         <option value="$PROJECT_DIR$/../eshoptest/src/test/java/common/CommonMethods.java" />
+        <option value="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartPage.java" />
+        <option value="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/ProductFactory.java" />
+        <option value="$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartMethods.java" />
+        <option value="$PROJECT_DIR$/../eshoptest/src/test/java/tests/MainPageCheck.java" />
       </list>
     </option>
   </component>
@@ -227,7 +231,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eshoptest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eshoptest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eshoptest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eshoptest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -387,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559070592611</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="common">
+      <created>1559071613412</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559071613412</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -402,11 +430,11 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Version Control" weight="0.32947975" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32851636" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32851636" />
       <window_info anchor="bottom" id="Terminal" weight="0.32947975" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16471216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16471216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -455,7 +483,8 @@
     <MESSAGE value="testng.xml file" />
     <MESSAGE value="tests" />
     <MESSAGE value="pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="pages" />
+    <MESSAGE value="common" />
+    <option name="LAST_COMMIT_MESSAGE" value="common" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart.java">
@@ -479,71 +508,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/tests/MainPageCheck.java">
+    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/common/CommonMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/tests/CartCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1659#1660#0" expanded="true" />
-            <element signature="e#1702#1703#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3049">
-          <caret line="196" column="5" selection-start-line="196" selection-start-column="5" selection-end-line="196" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3345#3346#0" expanded="true" />
-            <element signature="e#3395#3396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/ProductObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/ProductFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        <state relative-caret-position="833">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -560,10 +528,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/common/CommonMethods.java">
+    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/ProductFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        <state relative-caret-position="204">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/CartMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/cart/ProductObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="196" column="5" selection-start-line="196" selection-start-column="5" selection-end-line="196" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3345#3346#0" expanded="true" />
+            <element signature="e#3395#3396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/tests/CartCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+            <element signature="e#1702#1703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eshoptest/src/test/java/tests/MainPageCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

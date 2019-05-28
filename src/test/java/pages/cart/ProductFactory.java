@@ -8,9 +8,9 @@ import java.util.List;
 
 public class ProductFactory {
 
-    List<WebElement>names;
-    List<WebElement>prices;
-    List<WebElement> action;
+    private List<WebElement>names;
+    private List<WebElement>prices;
+    private List<WebElement> action;
 
     public List<ProductObject> createProductList(List<WebElement>names,List<WebElement>prices, List<WebElement>actionOnProduct){
         List<ProductObject> productList = new ArrayList<>();

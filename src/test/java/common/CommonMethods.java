@@ -55,10 +55,6 @@ public class CommonMethods {
         Assert.assertEquals(actualUrl, url,"Adres strony nie zgadza się");
     }
 
-    public void waitForUrl(String url){
-        waitFor().until(ExpectedConditions.urlToBe(url));
-    }
-
     public void log(String message){
         System.out.println("[LOG] " + message);
     }

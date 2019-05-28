@@ -11,9 +11,9 @@ import org.testng.annotations.Test;
 
 public class MainPageCheck {
 
-    WebDriver driver;
-    MainPage mainPage;
-    CommonMethods commonMethods;
+    private WebDriver driver;
+    private MainPage mainPage;
+    private CommonMethods commonMethods;
 
     @BeforeTest(alwaysRun = true)
     @Parameters({"browser","url","width","height"})

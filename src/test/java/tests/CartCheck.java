@@ -62,7 +62,7 @@ public class CartCheck {
 
     @Test(priority = 7)
     public void deleteProducts(){
-        cartPage.deleteProducts();
+        cartPage.deleteProduct();
     }
 
     @AfterTest(alwaysRun = true)
