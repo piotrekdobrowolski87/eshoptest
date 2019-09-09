@@ -3,7 +3,7 @@
 
 <suite name="AllTestsSuite">
     <test name="MainPage review">
-        <parameter name="browser" value="firefox"/>
+        <parameter name="browser" value="chrome"/>
         <parameter name="width" value="1600"/>
         <parameter name="height" value="900"/>
         <parameter name="url" value="https://merlin.pl/"/>
