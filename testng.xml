@@ -3,7 +3,7 @@
 
 <suite name="AllTestsSuite">
     <test name="MainPage review">
-        <parameter name="browser" value="chrome"/>
+        <parameter name="browser" value="firefox"/>
         <parameter name="width" value="1600"/>
         <parameter name="height" value="900"/>
         <parameter name="url" value="https://merlin.pl/"/>
@@ -12,7 +12,7 @@
         </classes>
     </test>
     <test name="Cart check">
-        <parameter name="browser" value="chrome"/>
+        <parameter name="browser" value="firefox"/>
         <parameter name="width" value="1600"/>
         <parameter name="height" value="900"/>
         <parameter name="url" value="https://merlin.pl/"/>
