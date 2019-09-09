@@ -113,6 +113,8 @@ public class MainPage {
             commonMethods.waitForViibility(promotedProductsCategoryNames.get(i));
             commonMethods.waitForViibility(category);
 
+            System.out.println(actualName + " " + expectedName + " !!!!!!!!!!!!!!!!!!!!!!!");
+
             commonMethods.moveToElement(promotedProductsCategory.get(i));
             softAssert.assertEquals(actualName, expectedName, "Nazawa kategorii jest nie zgodna");
         }
