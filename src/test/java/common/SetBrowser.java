@@ -4,6 +4,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
@@ -33,9 +34,16 @@ public class SetBrowser {
                 this.driver = new FirefoxDriver();
                 break;
             case "chrome":
+
+                ChromeOptions options = new ChromeOptions();
+                options.addArguments("--headless");
+                options.addArguments("--disable-gpu");
+                options.addArguments("--window-size=1200,800");
+
+
                 WebDriverManager.chromedriver()
                         .setup();
-                this.driver = new ChromeDriver();
+                this.driver = new ChromeDriver(options);
                 break;
             case "edge":
                 WebDriverManager.edgedriver()
