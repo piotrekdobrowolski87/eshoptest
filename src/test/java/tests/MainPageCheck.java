@@ -38,10 +38,10 @@ public class MainPageCheck {
         mainPage.checkIfCartIsEmpty();
     }
 
-    @Test(priority = 4)
-    public void checkAnimation(){
-        mainPage.checkOwlAnimation();
-    }
+    //@Test(priority = 4)
+    //public void checkAnimation(){
+    //    mainPage.checkOwlAnimation();
+    //}
 
     @AfterTest(alwaysRun = true)
     public void closeDriver(){
