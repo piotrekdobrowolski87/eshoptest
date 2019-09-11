@@ -63,7 +63,7 @@ public class MainPage {
     private WebDriver driver;
     private CommonMethods commonMethods;
     private SoftAssert softAssert = new SoftAssert();
-    private String url = "https://merlin.pl/";
+    private String url = "https://merlin.pl/xxx";
     private int owlItemsToCheck = 3;
     private int expectedShopsSharesList = 3;
     private String emptyCart = "pusty";
